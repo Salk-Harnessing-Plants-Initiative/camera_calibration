@@ -1,0 +1,14 @@
+name: calib 
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pip
+  - ffmpeg
+  - pip:
+    - pandas
+    - opencv-python
+    - matplotlib
+    - imageio
+    - notebook 
+
