@@ -9,6 +9,7 @@ dependencies:
     - pandas
     - opencv-python
     - matplotlib
+    - seaborn
     - imageio
     - notebook 
 
